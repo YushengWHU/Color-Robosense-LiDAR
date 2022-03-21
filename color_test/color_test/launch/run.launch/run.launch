@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="color_test" type="main" name="main" output="screen" />
+</launch>
